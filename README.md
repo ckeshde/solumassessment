@@ -1,3 +1,6 @@
+
+Applicant: Chanika Keshani de Silva
+
 This repository contains three components:
 
 - **Folder A** – Python script (1 file)
